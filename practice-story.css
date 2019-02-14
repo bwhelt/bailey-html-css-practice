@@ -7,7 +7,7 @@ article {
   max-width: 620px;
 }
 
-p , ul {
+p , ul , ol {
   font-size: 1.2rem;
   margin-bottom: 12px;
 }
@@ -38,11 +38,12 @@ h3 {
 }
 
 h4 {
-  font-sizz=e: 1rem;
+  font-size: 1rem;
   margin: 12px 0  6px 0;
 }
 
 .credit {
   font-family: Arial, Helvetica, sans-serif;
-  text-alight: left;
+  font-size: 1.5 rem;
+  text-align: right;
 }
